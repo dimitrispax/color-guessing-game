@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(43, 43, 43);
+}
+
+p {
+    font-size: 21px;
+    font-weight: 300;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    text-decoration: none;
+    white-space: pre;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    text-decoration: none;
+    color: white;
+}
+
+.container-color {
+    background-color: rgb(28, 173, 173);
+}
+
+.titles {
+    background-color: rgb(28, 173, 173);
+
+}
+
+#rgb {
+    font-size: 32px;
+}
+
+.titles p {
+    font-size: 21px;
+    font-weight: 300;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    text-decoration: none;
+    white-space: pre;
+    color: white;
+}
+
+.results {
+    background-color: white;
+
+}
+
+.col-sm button {
+    width: 200px;
+    height: 200px;
+    background-color: navajowhite;
+    border-radius: 20%;
+    border-style: none;
+}
+
+.col-sm button:active {
+    width: 200px;
+    height: 200px;
+    background-color: navajowhite;
+    border-radius: 20%;
+    border-style: none;
+}
+
+.col-sm button:focus {
+    width: 200px;
+    height: 200px;
+    background-color: navajowhite;
+    border-radius: 20%;
+    border-style: none;
+    outline: none;
+}
+
+.results button {
+    background-color: white;
+    height: 31px;
+    border-style: none;
+    outline: none;
+
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-weight: 600;
+    color: rgb(28, 173, 173);
+    text-align: center;
+    text-decoration: none;
+}
+
+.results button:hover {
+    background-color: rgb(28, 173, 173);
+    color: white;
+    height: 31px;
+    border-style: none;
+    outline: none;
+}
